@@ -1,0 +1,8 @@
+{
+  "name": "Waterpump Services",
+  "description": "A field service management system for Waterpump Services cc, the water pump specialist since 1980.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
